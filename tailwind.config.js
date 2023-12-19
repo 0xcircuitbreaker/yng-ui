@@ -3,6 +3,14 @@ module.exports = {
   darkMode: false,
   theme: {
     extend: {
+      colors: {
+        'custom-black': '#12110c',
+        'custom-white': '#f2f2f2',
+        'custom-blue': '#a1d7e1',
+        'custom-yellow': '#ffe672',
+        'custom-sky-blue': '#a1d7e1',
+        'custom-bright-yellow': '#ffe672',
+      },
       backgroundColor: {
         'custom-blue': '#a1d7e1',
         'custom-yellow': '#ffe672'
